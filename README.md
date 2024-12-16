@@ -1,2 +1,2 @@
 # Semilinear-elliptic-equation
-Small project in Numerical approximation of PDEs
+Project in Numerical approximation of PDEs, solve a semilinear elliptic equation using finite element methods
